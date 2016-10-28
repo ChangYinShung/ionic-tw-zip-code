@@ -3,7 +3,7 @@
 ### Installation
 Dependency plugin : `lodash`、`ionic-modal-select`
 
-[ionic-modal-select] https://github.com/inmagik/ionic-modal-select 
+[ionic-modal-select] https://github.com/inmagik/ionic-modal-select 代替 Select 樣式
 
 
 ```html
